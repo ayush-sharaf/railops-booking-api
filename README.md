@@ -1,5 +1,9 @@
 # RailOps Booking API
 
+## Architecture Diagram
+
+![RailOps Architecture](./railops-architecture.svg)
+
 RailOps Booking API is a backend service for train search, reservation, booking retrieval, and admin-managed train operations. It exposes authenticated user flows for booking and protected admin workflows for managing train inventory and route data.
 
 ## What It Does
@@ -103,4 +107,3 @@ This project is useful as a backend systems portfolio piece because it combines:
 - booking workflows
 - protected operational endpoints
 
-It is stronger when framed as an operations-oriented booking API than as a generic “railway management assignment”.
